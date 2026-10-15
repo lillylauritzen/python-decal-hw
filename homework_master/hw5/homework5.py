@@ -125,14 +125,6 @@ def square(num):
 print(square(5))
 
 
-print("")
-print("")
-print("")
-print("")
-
-
-
-
 #6.2 favorite function
 def checkDataType(input_data):
     return type(input_data).__name__
